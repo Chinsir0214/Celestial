@@ -1,0 +1,5 @@
+C:/Users/Chinsir/Documents/Celestial/build/CMakeFiles/celestial.dir
+C:/Users/Chinsir/Documents/Celestial/build/CMakeFiles/edit_cache.dir
+C:/Users/Chinsir/Documents/Celestial/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Chinsir/Documents/Celestial/build/CMakeFiles/celestial_autogen_timestamp_deps.dir
+C:/Users/Chinsir/Documents/Celestial/build/CMakeFiles/celestial_autogen.dir
