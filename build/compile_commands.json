@@ -10,5 +10,11 @@
   "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/include -isystem C:/Qt/6.10.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.0/mingw_64/include -isystem C:/Qt/6.10.0/mingw_64/include/QtCore -isystem C:/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\celestial.dir\\main.cpp.obj -c C:\\Users\\Chinsir\\Documents\\Celestial\\main.cpp",
   "file": "C:\\Users\\Chinsir\\Documents\\Celestial\\main.cpp",
   "output": "CMakeFiles\\celestial.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Chinsir/Documents/Celestial/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/include -isystem C:/Qt/6.10.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.0/mingw_64/include -isystem C:/Qt/6.10.0/mingw_64/include/QtCore -isystem C:/Qt/6.10.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.0/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\celestial.dir\\MainWindow.cpp.obj -c C:\\Users\\Chinsir\\Documents\\Celestial\\MainWindow.cpp",
+  "file": "C:\\Users\\Chinsir\\Documents\\Celestial\\MainWindow.cpp",
+  "output": "CMakeFiles\\celestial.dir\\MainWindow.cpp.obj"
 }
 ]

@@ -1,15 +1,12 @@
 #include <QApplication>
-#include <QMainWindow>
-
+#include "MainWindow.h"
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
 
-    QMainWindow window;
-
-    window.setWindowTitle("Celestial");
-    window.resize(800, 600);
+    MainWindow window;
 
     window.show();
+
     return app.exec();
 }

@@ -1,19 +1,9 @@
 # ninja log v6
-9	137	7841075067525167	celestial_autogen/timestamp	370a983d4944df2c
-9	137	7841075067525167	celestial_autogen/mocs_compilation.cpp	370a983d4944df2c
-3318	3530	7841075099706247	celestial.exe	cfb00656a7952a09
-9	137	7841075067525167	C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/timestamp	370a983d4944df2c
-9	137	7841075067525167	C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/mocs_compilation.cpp	370a983d4944df2c
-141	193	7841075067934073	CMakeFiles/celestial.dir/celestial_autogen/mocs_compilation.cpp.obj	c5b15107594eb4aa
-143	3313	7841075067954156	CMakeFiles/celestial.dir/main.cpp.obj	8a589a06bfa9b83e
-20	148	7841082151664075	celestial_autogen/timestamp	370a983d4944df2c
-20	148	7841082151664075	celestial_autogen/mocs_compilation.cpp	370a983d4944df2c
-20	148	7841082151664075	C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/timestamp	370a983d4944df2c
-20	148	7841082151664075	C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/mocs_compilation.cpp	370a983d4944df2c
+16	117	7841106022109312	celestial_autogen/timestamp	370a983d4944df2c
+16	117	7841106022109312	celestial_autogen/mocs_compilation.cpp	370a983d4944df2c
+11	195	7841106720902263	celestial.exe	66bd397270890194
+16	117	7841106022109312	C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/timestamp	370a983d4944df2c
+16	117	7841106022109312	C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/mocs_compilation.cpp	370a983d4944df2c
 149	260	7841082152956776	CMakeFiles/celestial.dir/celestial_autogen/mocs_compilation.cpp.obj	c5b15107594eb4aa
-11	103	7841082873812338	celestial_autogen/timestamp	370a983d4944df2c
-11	103	7841082873812338	celestial_autogen/mocs_compilation.cpp	370a983d4944df2c
-11	103	7841082873812338	C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/timestamp	370a983d4944df2c
-11	103	7841082873812338	C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/mocs_compilation.cpp	370a983d4944df2c
-104	2954	7841082874739491	CMakeFiles/celestial.dir/main.cpp.obj	8a589a06bfa9b83e
-2954	3226	7841082903250308	celestial.exe	cfb00656a7952a09
+118	3580	7841106023116599	CMakeFiles/celestial.dir/main.cpp.obj	8a589a06bfa9b83e
+119	9314	7841106023136553	CMakeFiles/celestial.dir/MainWindow.cpp.obj	6d027d07c4ba461d

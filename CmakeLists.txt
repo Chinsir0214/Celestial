@@ -1,28 +1,20 @@
-# 设置 CMake 所需的最低版本号
 cmake_minimum_required(VERSION 3.16)
 
-# 定义项目名称
 project(celestial VERSION 1.0)
 
-# 设置 C++ 标准为 C++17，以使用 <filesystem> 等现代特性
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# 这三行是使用 Qt 的“魔法”开关，强烈建议开启
-# 它能让 CMake 自动处理 Qt 特有的 MOC, UIC, RCC 工具，极大简化配置
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTORCC ON)
 
-# 查找 Qt6 库。
-# 我们需要 "Widgets" 组件来创建窗口和控件。
 find_package(Qt6 COMPONENTS Widgets REQUIRED)
 
-# 添加我们的可执行文件目标
-# "celestial" 是生成的可执行文件的名字
-# "main.cpp" 是编译它所需要的源文件
-add_executable(celestial main.cpp)
+add_executable(celestial 
+    main.cpp
+    MainWindow.h
+    MainWindow.cpp
+)
 
-# 将我们的目标链接到它所需要的 Qt 库上
-# 这是至关重要的一步，它告诉链接器我们的代码使用了 Qt::Widgets 库的功能
 target_link_libraries(celestial PRIVATE Qt6::Widgets)

@@ -273,7 +273,15 @@
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "celestial_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/Chinsir/Documents/Celestial/MainWindow.h",
+			"MU",
+			"EWIEGA46WW/moc_MainWindow.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/include",
 	"MOC_COMPILATION_FILE" : "C:/Users/Chinsir/Documents/Celestial/build/celestial_autogen/mocs_compilation.cpp",
@@ -344,6 +352,7 @@
 	"SETTINGS_FILE" : "C:/Users/Chinsir/Documents/Celestial/build/CMakeFiles/celestial_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "C:/Users/Chinsir/Documents/Celestial/MainWindow.cpp", "MU", null ],
 		[ "C:/Users/Chinsir/Documents/Celestial/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],

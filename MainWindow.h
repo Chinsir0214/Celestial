@@ -8,7 +8,7 @@ class QTableView;
 class QPushButton;
 class QSlider;
 
-class MainWindow : public MainWindow
+class MainWindow : public QMainWindow
 {
 
 public:
@@ -23,8 +23,8 @@ private:
     QPushButton *playButton;
     QPushButton *prevButton;
     QPushButton *nextButton;
-    QSlider *progreessSlider;
+    QSlider *progressSlider;
     QSlider *volumeSlider;
-}
+};
 
 #endif
